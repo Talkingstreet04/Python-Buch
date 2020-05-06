@@ -39,9 +39,51 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Programieren/Python_Buch" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.2">
     <configuration default="true" type="CompoundRunConfigurationType">
       <toRun name="Python Buch" type="PythonConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Buch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pepat\OneDrive\Dokumente\Dev\Python-Buch\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aufgaben KApitel 6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aufgaben KApitel 6/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Buch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pepat\OneDrive\Dokumente\Dev\Python-Buch\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aufgaben KApitel 6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aufgaben KApitel 6/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -88,6 +130,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2" />
+        <item itemvalue="Python.1" />
         <item itemvalue="Python.lamda form" />
       </list>
     </recent_temporary>
@@ -114,25 +158,25 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="413" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1588435979620" />
-    <state width="1266" height="168" key="GridCell.Tab.0.bottom" timestamp="1588525777667">
+    <state width="1281" height="170" key="GridCell.Tab.0.bottom" timestamp="1588792232255">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1266" height="168" key="GridCell.Tab.0.bottom/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1588525777667" />
-    <state width="1266" height="168" key="GridCell.Tab.0.center" timestamp="1588525777667">
+    <state width="1281" height="170" key="GridCell.Tab.0.bottom/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1588792232255" />
+    <state width="1281" height="170" key="GridCell.Tab.0.center" timestamp="1588792232255">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1266" height="168" key="GridCell.Tab.0.center/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1588525777667" />
-    <state width="1266" height="168" key="GridCell.Tab.0.left" timestamp="1588525777667">
+    <state width="1281" height="170" key="GridCell.Tab.0.center/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1588792232255" />
+    <state width="1281" height="170" key="GridCell.Tab.0.left" timestamp="1588792232255">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1266" height="168" key="GridCell.Tab.0.left/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1588525777667" />
-    <state width="1266" height="168" key="GridCell.Tab.0.right" timestamp="1588525777667">
+    <state width="1281" height="170" key="GridCell.Tab.0.left/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1588792232255" />
+    <state width="1281" height="170" key="GridCell.Tab.0.right" timestamp="1588792232255">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1266" height="168" key="GridCell.Tab.0.right/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1588525777667" />
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1588525227263">
+    <state width="1281" height="170" key="GridCell.Tab.0.right/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1588792232255" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1588790518801">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1588525227263" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1588790518801" />
   </component>
 </project>
