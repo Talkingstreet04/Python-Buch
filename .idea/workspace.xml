@@ -41,15 +41,16 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pepat\OneDrive\Dokumente\Dev\Python-Buch\Kapitel7\Charts" />
       <recent name="C:\Users\pepat\OneDrive\Dokumente\Dev\Python-Buch\Aufgaben KApitel 6" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Quicksort">
+  <component name="RunManager" selected="Python.Raumsortierer">
     <configuration default="true" type="CompoundRunConfigurationType">
       <toRun name="Python Buch" type="PythonConfigurationType" />
       <method v="2" />
     </configuration>
-    <configuration name="Binäres Suchen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="GEneratorfunktion 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Buch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\pepat\OneDrive\Dokumente\Dev\Python-Buch\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kapitel7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kapitel7/Generatoren" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kapitel7/Binäres Suchen.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kapitel7/Generatoren/GEneratorfunktion 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Bubble Sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Generatorenausdrücke" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Buch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\pepat\OneDrive\Dokumente\Dev\Python-Buch\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kapitel7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kapitel7/Generatoren" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kapitel7/Bubble Sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kapitel7/Generatoren/Generatorenausdrücke.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Quicksort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Generatorfunktion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Buch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\pepat\OneDrive\Dokumente\Dev\Python-Buch\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kapitel7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kapitel7/Generatoren" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kapitel7/Quicksort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kapitel7/Generatoren/Generatorfunktion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Rekursives SUmmieren" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Mengen und Generatoren" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Buch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\pepat\OneDrive\Dokumente\Dev\Python-Buch\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kapitel7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kapitel7/Generatoren" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kapitel7/Rekursives SUmmieren.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kapitel7/Generatoren/Mengen und Generatoren.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Rekursives Suchen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Raumsortierer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Buch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kapitel7/Rekursives Suchen.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kapitel7/Raumsortierer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Quicksort" />
-        <item itemvalue="Python.Bubble Sort" />
-        <item itemvalue="Python.Binäres Suchen" />
-        <item itemvalue="Python.Rekursives Suchen" />
-        <item itemvalue="Python.Rekursives SUmmieren" />
+        <item itemvalue="Python.Raumsortierer" />
+        <item itemvalue="Python.Mengen und Generatoren" />
+        <item itemvalue="Python.GEneratorfunktion 2" />
+        <item itemvalue="Python.Generatorfunktion" />
+        <item itemvalue="Python.Generatorenausdrücke" />
       </list>
     </recent_temporary>
   </component>
@@ -203,29 +204,29 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1588525457582" />
-    <state x="413" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588435979620">
+    <state x="413" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589365518968">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="413" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1588435979620" />
-    <state width="1281" height="170" key="GridCell.Tab.0.bottom" timestamp="1589100870001">
+    <state x="413" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589365518968" />
+    <state width="1281" height="172" key="GridCell.Tab.0.bottom" timestamp="1589627975659">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1281" height="170" key="GridCell.Tab.0.bottom/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589100870001" />
-    <state width="1281" height="170" key="GridCell.Tab.0.center" timestamp="1589100870001">
+    <state width="1281" height="172" key="GridCell.Tab.0.bottom/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589627975659" />
+    <state width="1281" height="172" key="GridCell.Tab.0.center" timestamp="1589627975659">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1281" height="170" key="GridCell.Tab.0.center/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589100870001" />
-    <state width="1281" height="170" key="GridCell.Tab.0.left" timestamp="1589100870000">
+    <state width="1281" height="172" key="GridCell.Tab.0.center/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589627975659" />
+    <state width="1281" height="172" key="GridCell.Tab.0.left" timestamp="1589627975659">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1281" height="170" key="GridCell.Tab.0.left/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589100870000" />
-    <state width="1281" height="170" key="GridCell.Tab.0.right" timestamp="1589100870001">
+    <state width="1281" height="172" key="GridCell.Tab.0.left/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589627975659" />
+    <state width="1281" height="172" key="GridCell.Tab.0.right" timestamp="1589627975659">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1281" height="170" key="GridCell.Tab.0.right/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589100870001" />
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1589031961617">
+    <state width="1281" height="172" key="GridCell.Tab.0.right/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589627975659" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1589625916801">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589031961617" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589625916801" />
   </component>
 </project>
