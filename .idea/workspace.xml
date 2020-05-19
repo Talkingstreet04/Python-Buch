@@ -45,72 +45,9 @@
       <recent name="C:\Users\pepat\OneDrive\Dokumente\Dev\Python-Buch\Aufgaben KApitel 6" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Raumsortierer">
+  <component name="RunManager" selected="Python.Rechtwinkelige Dreiecke">
     <configuration default="true" type="CompoundRunConfigurationType">
       <toRun name="Python Buch" type="PythonConfigurationType" />
-      <method v="2" />
-    </configuration>
-    <configuration name="GEneratorfunktion 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Buch" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\pepat\OneDrive\Dokumente\Dev\Python-Buch\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kapitel7/Generatoren" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kapitel7/Generatoren/GEneratorfunktion 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Generatorenausdrücke" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Buch" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\pepat\OneDrive\Dokumente\Dev\Python-Buch\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kapitel7/Generatoren" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kapitel7/Generatoren/Generatorenausdrücke.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Generatorfunktion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Buch" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\pepat\OneDrive\Dokumente\Dev\Python-Buch\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kapitel7/Generatoren" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kapitel7/Generatoren/Generatorfunktion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="Mengen und Generatoren" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -155,6 +92,69 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Rechtwinkelige Dreiecke" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Buch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pepat\OneDrive\Dokumente\Dev\Python-Buch\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kapitel7/Aufgaben" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kapitel7/Aufgaben/Rechtwinkelige Dreiecke.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Skat_Mischen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Buch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pepat\OneDrive\Dokumente\Dev\Python-Buch\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kapitel7/Aufgaben" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kapitel7/Aufgaben/Skat_Mischen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Buch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pepat\OneDrive\Dokumente\Dev\Python-Buch\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kapitel7/Aufgaben" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kapitel7/Aufgaben/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Python-Buch" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Rechtwinkelige Dreiecke" />
+        <item itemvalue="Python.Skat_Mischen" />
+        <item itemvalue="Python.Test" />
         <item itemvalue="Python.Raumsortierer" />
         <item itemvalue="Python.Mengen und Generatoren" />
-        <item itemvalue="Python.GEneratorfunktion 2" />
-        <item itemvalue="Python.Generatorfunktion" />
-        <item itemvalue="Python.Generatorenausdrücke" />
       </list>
     </recent_temporary>
   </component>
@@ -208,25 +208,29 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="413" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589365518968" />
-    <state width="1281" height="172" key="GridCell.Tab.0.bottom" timestamp="1589627975659">
+    <state width="1281" height="172" key="GridCell.Tab.0.bottom" timestamp="1589646699398">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1281" height="172" key="GridCell.Tab.0.bottom/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589627975659" />
-    <state width="1281" height="172" key="GridCell.Tab.0.center" timestamp="1589627975659">
+    <state width="1281" height="172" key="GridCell.Tab.0.bottom/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589646699398" />
+    <state width="1281" height="172" key="GridCell.Tab.0.center" timestamp="1589646699398">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1281" height="172" key="GridCell.Tab.0.center/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589627975659" />
-    <state width="1281" height="172" key="GridCell.Tab.0.left" timestamp="1589627975659">
+    <state width="1281" height="172" key="GridCell.Tab.0.center/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589646699398" />
+    <state width="1281" height="172" key="GridCell.Tab.0.left" timestamp="1589646699397">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1281" height="172" key="GridCell.Tab.0.left/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589627975659" />
-    <state width="1281" height="172" key="GridCell.Tab.0.right" timestamp="1589627975659">
+    <state width="1281" height="172" key="GridCell.Tab.0.left/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589646699397" />
+    <state width="1281" height="172" key="GridCell.Tab.0.right" timestamp="1589646699398">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1281" height="172" key="GridCell.Tab.0.right/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589627975659" />
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1589625916801">
+    <state width="1281" height="172" key="GridCell.Tab.0.right/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589646699398" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1589628441399">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589625916801" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589628441399" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1589629968326">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589629968326" />
   </component>
 </project>
