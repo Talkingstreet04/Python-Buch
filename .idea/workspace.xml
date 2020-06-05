@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bbc9ad4-43f2-4ca8-9d6e-bfa3aa7487df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Python-Buch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Buch.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Muttertag.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Programieren/Python_Buch" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -46,12 +47,12 @@
       <recent name="C:\Users\pepat\OneDrive\Dokumente\Dev\Python-Buch\Aufgaben KApitel 6" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Rechtwinkelige Dreiecke">
+  <component name="RunManager" selected="Python.Kopfrechentrainer">
     <configuration default="true" type="CompoundRunConfigurationType">
       <toRun name="Python Buch" type="PythonConfigurationType" />
       <method v="2" />
     </configuration>
-    <configuration name="Mengen und Generatoren" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Kopfrechentrainer" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python-Buch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\pepat\OneDrive\Dokumente\Dev\Python-Buch\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kapitel7/Generatoren" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kapitel7/Generatoren/Mengen und Generatoren.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kopfrechentrainer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +184,6 @@
         <item itemvalue="Python.Skat_Mischen" />
         <item itemvalue="Python.Test" />
         <item itemvalue="Python.Raumsortierer" />
-        <item itemvalue="Python.Mengen und Generatoren" />
       </list>
     </recent_temporary>
   </component>
@@ -201,38 +201,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588525457582">
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590570407426">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1588525457582" />
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1590570407426" />
     <state x="413" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589365518968">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="413" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589365518968" />
-    <state width="1281" height="172" key="GridCell.Tab.0.bottom" timestamp="1589646699398">
+    <state width="1266" height="172" key="GridCell.Tab.0.bottom" timestamp="1590570743004">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1281" height="172" key="GridCell.Tab.0.bottom/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589646699398" />
-    <state width="1281" height="172" key="GridCell.Tab.0.center" timestamp="1589646699398">
+    <state width="1266" height="172" key="GridCell.Tab.0.bottom/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1590570743004" />
+    <state width="1266" height="172" key="GridCell.Tab.0.center" timestamp="1590570743004">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1281" height="172" key="GridCell.Tab.0.center/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589646699398" />
-    <state width="1281" height="172" key="GridCell.Tab.0.left" timestamp="1589646699397">
+    <state width="1266" height="172" key="GridCell.Tab.0.center/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1590570743004" />
+    <state width="1266" height="172" key="GridCell.Tab.0.left" timestamp="1590570743004">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1281" height="172" key="GridCell.Tab.0.left/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589646699397" />
-    <state width="1281" height="172" key="GridCell.Tab.0.right" timestamp="1589646699398">
+    <state width="1266" height="172" key="GridCell.Tab.0.left/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1590570743004" />
+    <state width="1266" height="172" key="GridCell.Tab.0.right" timestamp="1590570743004">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1281" height="172" key="GridCell.Tab.0.right/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589646699398" />
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1589869746848">
+    <state width="1266" height="172" key="GridCell.Tab.0.right/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1590570743004" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1590570396838">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589628441399" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1590570396838" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1590833238590">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1590833238590" />
     <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589869746848" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1589629968326">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1590492602755">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1589629968326" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/-1280.0.1280.984@0.0.1280.680" timestamp="1590492602755" />
   </component>
 </project>
