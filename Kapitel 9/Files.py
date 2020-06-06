@@ -1,0 +1,5 @@
+daten = open("D:\Daten\Dokumente\Dev\Python-Buch\Kapitel 9\\name", "w")
+name = input("Was ist dein Name? : ")
+daten.write(name)
+daten.close()
+print(daten.closed)
